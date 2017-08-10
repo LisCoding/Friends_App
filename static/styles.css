@@ -1,0 +1,27 @@
+table {
+  width: 25%
+}
+h1 {
+  color: purple;
+}
+input {
+  border: 2px solid blue;
+  padding: 8px 30px;
+  display: block;
+  margin: 10px
+}
+label {
+  font-weight: bold;
+  font-size: 20px;
+}
+th, td {
+  text-align: center;
+}
+
+#submit {
+  background-color: pink;
+  padding:0, 30px;
+  font-size: 20px;
+  font-weight: bold;
+  border: 2px solid purple;
+}
